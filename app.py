@@ -1,4 +1,4 @@
-!pip install streamlit
+
 import streamlit as st
 import pandas as pd
 import numpy as np
@@ -84,4 +84,3 @@ elif option == "Upload CSV":
 # ===============================
 st.markdown("---")
 st.write("Built with ❤️ using Streamlit")
-pip install --upgrade pip
